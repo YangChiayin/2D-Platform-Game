@@ -1,8 +1,7 @@
 # 2D Platform Game
-![Screenshot 2025-03-02 235234](https://github.com/user-attachments/assets/1fbd3e31-f516-493d-b820-240725cd5254)
-![Screenshot 2025-03-02 235305](https://github.com/user-attachments/assets/5f2bbd5f-cf4d-4bdb-870f-26d66b73138c)
 ![Screenshot 2025-03-02 235218](https://github.com/user-attachments/assets/7b815f25-8a19-4301-80a9-0c1ffd755ad7)
-
+![Screenshot 2025-03-02 235305](https://github.com/user-attachments/assets/5f2bbd5f-cf4d-4bdb-870f-26d66b73138c)
+![Screenshot 2025-03-02 235234](https://github.com/user-attachments/assets/1fbd3e31-f516-493d-b820-240725cd5254)
 
 ## Overview
 This is a simple 2D platformer game built using C# and Windows Forms. The game features a player (green skeleton) that moves and jumps to avoid enemies and obstacles, while collecting points and trying to reach the target/home. The game ends when the player collides with an enemy, the wire mesh, or the target/home. 
