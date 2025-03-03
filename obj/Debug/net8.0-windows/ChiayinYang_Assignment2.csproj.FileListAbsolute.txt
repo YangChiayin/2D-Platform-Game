@@ -1,0 +1,51 @@
+C:\Users\Chiayin\source\repos\Game Programming\ChiayinYang_Assignment2\bin\Debug\net8.0-windows\ChiayinYang_Assignment2.exe
+C:\Users\Chiayin\source\repos\Game Programming\ChiayinYang_Assignment2\bin\Debug\net8.0-windows\ChiayinYang_Assignment2.deps.json
+C:\Users\Chiayin\source\repos\Game Programming\ChiayinYang_Assignment2\bin\Debug\net8.0-windows\ChiayinYang_Assignment2.runtimeconfig.json
+C:\Users\Chiayin\source\repos\Game Programming\ChiayinYang_Assignment2\bin\Debug\net8.0-windows\ChiayinYang_Assignment2.dll
+C:\Users\Chiayin\source\repos\Game Programming\ChiayinYang_Assignment2\bin\Debug\net8.0-windows\ChiayinYang_Assignment2.pdb
+C:\Users\Chiayin\source\repos\Game Programming\ChiayinYang_Assignment2\obj\Debug\net8.0-windows\ChiayinYang_Assignment2.PlatformGame.resources
+C:\Users\Chiayin\source\repos\Game Programming\ChiayinYang_Assignment2\obj\Debug\net8.0-windows\ChiayinYang_Assignment2.Properties.Resources.resources
+C:\Users\Chiayin\source\repos\Game Programming\ChiayinYang_Assignment2\obj\Debug\net8.0-windows\ChiayinYang_Assignment2.csproj.GenerateResource.cache
+C:\Users\Chiayin\source\repos\Game Programming\ChiayinYang_Assignment2\obj\Debug\net8.0-windows\ChiayinYang_Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chiayin\source\repos\Game Programming\ChiayinYang_Assignment2\obj\Debug\net8.0-windows\ChiayinYang_Assignment2.AssemblyInfoInputs.cache
+C:\Users\Chiayin\source\repos\Game Programming\ChiayinYang_Assignment2\obj\Debug\net8.0-windows\ChiayinYang_Assignment2.AssemblyInfo.cs
+C:\Users\Chiayin\source\repos\Game Programming\ChiayinYang_Assignment2\obj\Debug\net8.0-windows\ChiayinYang_Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\Chiayin\source\repos\Game Programming\ChiayinYang_Assignment2\obj\Debug\net8.0-windows\ChiayinYang_Assignment2.dll
+C:\Users\Chiayin\source\repos\Game Programming\ChiayinYang_Assignment2\obj\Debug\net8.0-windows\refint\ChiayinYang_Assignment2.dll
+C:\Users\Chiayin\source\repos\Game Programming\ChiayinYang_Assignment2\obj\Debug\net8.0-windows\ChiayinYang_Assignment2.pdb
+C:\Users\Chiayin\source\repos\Game Programming\ChiayinYang_Assignment2\obj\Debug\net8.0-windows\ChiayinYang_Assignment2.genruntimeconfig.cache
+C:\Users\Chiayin\source\repos\Game Programming\ChiayinYang_Assignment2\obj\Debug\net8.0-windows\ref\ChiayinYang_Assignment2.dll
+C:\Users\Chiayin\Desktop\ChiayinYang_Assignment2\bin\Debug\net8.0-windows\ChiayinYang_Assignment2.exe
+C:\Users\Chiayin\Desktop\ChiayinYang_Assignment2\bin\Debug\net8.0-windows\ChiayinYang_Assignment2.deps.json
+C:\Users\Chiayin\Desktop\ChiayinYang_Assignment2\bin\Debug\net8.0-windows\ChiayinYang_Assignment2.runtimeconfig.json
+C:\Users\Chiayin\Desktop\ChiayinYang_Assignment2\bin\Debug\net8.0-windows\ChiayinYang_Assignment2.dll
+C:\Users\Chiayin\Desktop\ChiayinYang_Assignment2\bin\Debug\net8.0-windows\ChiayinYang_Assignment2.pdb
+C:\Users\Chiayin\Desktop\ChiayinYang_Assignment2\obj\Debug\net8.0-windows\ChiayinYang_Assignment2.PlatformGame.resources
+C:\Users\Chiayin\Desktop\ChiayinYang_Assignment2\obj\Debug\net8.0-windows\ChiayinYang_Assignment2.Properties.Resources.resources
+C:\Users\Chiayin\Desktop\ChiayinYang_Assignment2\obj\Debug\net8.0-windows\ChiayinYang_Assignment2.csproj.GenerateResource.cache
+C:\Users\Chiayin\Desktop\ChiayinYang_Assignment2\obj\Debug\net8.0-windows\ChiayinYang_Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chiayin\Desktop\ChiayinYang_Assignment2\obj\Debug\net8.0-windows\ChiayinYang_Assignment2.AssemblyInfoInputs.cache
+C:\Users\Chiayin\Desktop\ChiayinYang_Assignment2\obj\Debug\net8.0-windows\ChiayinYang_Assignment2.AssemblyInfo.cs
+C:\Users\Chiayin\Desktop\ChiayinYang_Assignment2\obj\Debug\net8.0-windows\ChiayinYang_Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\Chiayin\Desktop\ChiayinYang_Assignment2\obj\Debug\net8.0-windows\ChiayinYang_Assignment2.dll
+C:\Users\Chiayin\Desktop\ChiayinYang_Assignment2\obj\Debug\net8.0-windows\refint\ChiayinYang_Assignment2.dll
+C:\Users\Chiayin\Desktop\ChiayinYang_Assignment2\obj\Debug\net8.0-windows\ChiayinYang_Assignment2.pdb
+C:\Users\Chiayin\Desktop\ChiayinYang_Assignment2\obj\Debug\net8.0-windows\ChiayinYang_Assignment2.genruntimeconfig.cache
+C:\Users\Chiayin\Desktop\ChiayinYang_Assignment2\obj\Debug\net8.0-windows\ref\ChiayinYang_Assignment2.dll
+D:\Conestoga_Courses\2024_level_3\Game Programming\ChiayinYang_Assignment2\bin\Debug\net8.0-windows\ChiayinYang_Assignment2.exe
+D:\Conestoga_Courses\2024_level_3\Game Programming\ChiayinYang_Assignment2\bin\Debug\net8.0-windows\ChiayinYang_Assignment2.deps.json
+D:\Conestoga_Courses\2024_level_3\Game Programming\ChiayinYang_Assignment2\bin\Debug\net8.0-windows\ChiayinYang_Assignment2.runtimeconfig.json
+D:\Conestoga_Courses\2024_level_3\Game Programming\ChiayinYang_Assignment2\bin\Debug\net8.0-windows\ChiayinYang_Assignment2.dll
+D:\Conestoga_Courses\2024_level_3\Game Programming\ChiayinYang_Assignment2\bin\Debug\net8.0-windows\ChiayinYang_Assignment2.pdb
+D:\Conestoga_Courses\2024_level_3\Game Programming\ChiayinYang_Assignment2\obj\Debug\net8.0-windows\ChiayinYang_Assignment2.PlatformGame.resources
+D:\Conestoga_Courses\2024_level_3\Game Programming\ChiayinYang_Assignment2\obj\Debug\net8.0-windows\ChiayinYang_Assignment2.Properties.Resources.resources
+D:\Conestoga_Courses\2024_level_3\Game Programming\ChiayinYang_Assignment2\obj\Debug\net8.0-windows\ChiayinYang_Assignment2.csproj.GenerateResource.cache
+D:\Conestoga_Courses\2024_level_3\Game Programming\ChiayinYang_Assignment2\obj\Debug\net8.0-windows\ChiayinYang_Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Conestoga_Courses\2024_level_3\Game Programming\ChiayinYang_Assignment2\obj\Debug\net8.0-windows\ChiayinYang_Assignment2.AssemblyInfoInputs.cache
+D:\Conestoga_Courses\2024_level_3\Game Programming\ChiayinYang_Assignment2\obj\Debug\net8.0-windows\ChiayinYang_Assignment2.AssemblyInfo.cs
+D:\Conestoga_Courses\2024_level_3\Game Programming\ChiayinYang_Assignment2\obj\Debug\net8.0-windows\ChiayinYang_Assignment2.csproj.CoreCompileInputs.cache
+D:\Conestoga_Courses\2024_level_3\Game Programming\ChiayinYang_Assignment2\obj\Debug\net8.0-windows\ChiayinYang_Assignment2.dll
+D:\Conestoga_Courses\2024_level_3\Game Programming\ChiayinYang_Assignment2\obj\Debug\net8.0-windows\refint\ChiayinYang_Assignment2.dll
+D:\Conestoga_Courses\2024_level_3\Game Programming\ChiayinYang_Assignment2\obj\Debug\net8.0-windows\ChiayinYang_Assignment2.pdb
+D:\Conestoga_Courses\2024_level_3\Game Programming\ChiayinYang_Assignment2\obj\Debug\net8.0-windows\ChiayinYang_Assignment2.genruntimeconfig.cache
+D:\Conestoga_Courses\2024_level_3\Game Programming\ChiayinYang_Assignment2\obj\Debug\net8.0-windows\ref\ChiayinYang_Assignment2.dll
